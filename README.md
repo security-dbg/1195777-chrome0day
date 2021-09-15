@@ -1,4 +1,6 @@
-# 1195777-chrome1day
+# CVE-2021-21224 (issue 1195777)
+
+> 1195777-chrome1day
 https://www.youtube.com/embed/qZFzuHNqazo
 
 http://127.0.0.1
